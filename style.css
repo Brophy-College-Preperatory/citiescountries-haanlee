@@ -1,22 +1,22 @@
-html {
-  height: 100%;
+html {/*<!--basically makes the appearance of the website, the colors, the format, the text, and all the other external parts-->*/
+  height: 100%; 
   width: 100%;
   background-color: lightblue;
 }
 
-h2 {
+h2 { <!--second header-->
   text-align: center;
 }
 
 /* #heading will hold styling code that only pertains to items on the HTML file with the ID heading */
-nav {
+nav { /*<!--makes the appearance of the navigation section-->*/
   background-color: white;
   color: black;
   padding: 5px;
   text-align: center;
 }
 
-ul {
+ul { 
   list-style-type: none;
   margin: 0;
   padding: 0;
